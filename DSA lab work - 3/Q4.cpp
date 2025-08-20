@@ -1,7 +1,4 @@
-#include <iostream>
-#include <algorithm>
-#include <cctype>
-#include <string>
+#include<bits/stdc++.h>
 using namespace std;
 
 void concatStrings(string s1, string s2) {
@@ -39,4 +36,5 @@ int main() {
     sortStrings(words, 3);
     toLowercase("HeLLo C++");
 }
+
 
